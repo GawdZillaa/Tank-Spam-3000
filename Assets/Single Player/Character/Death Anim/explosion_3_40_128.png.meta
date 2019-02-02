@@ -1,0 +1,608 @@
+fileFormatVersion: 2
+guid: cc1a80d13195a044d955dffd63d31a0f
+timeCreated: 1493795098
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: explosion_3_40_128_0
+    21300002: explosion_3_40_128_1
+    21300004: explosion_3_40_128_2
+    21300006: explosion_3_40_128_3
+    21300008: explosion_3_40_128_4
+    21300010: explosion_3_40_128_5
+    21300012: explosion_3_40_128_6
+    21300014: explosion_3_40_128_7
+    21300016: explosion_3_40_128_8
+    21300018: explosion_3_40_128_9
+    21300020: explosion_3_40_128_10
+    21300022: explosion_3_40_128_11
+    21300024: explosion_3_40_128_12
+    21300026: explosion_3_40_128_13
+    21300028: explosion_3_40_128_14
+    21300030: explosion_3_40_128_15
+    21300032: explosion_3_40_128_16
+    21300034: explosion_3_40_128_17
+    21300036: explosion_3_40_128_18
+    21300038: explosion_3_40_128_19
+    21300040: explosion_3_40_128_20
+    21300042: explosion_3_40_128_21
+    21300044: explosion_3_40_128_22
+    21300046: explosion_3_40_128_23
+    21300048: explosion_3_40_128_24
+    21300050: explosion_3_40_128_25
+    21300052: explosion_3_40_128_26
+    21300054: explosion_3_40_128_27
+    21300056: explosion_3_40_128_28
+    21300058: explosion_3_40_128_29
+    21300060: explosion_3_40_128_30
+    21300062: explosion_3_40_128_31
+    21300064: explosion_3_40_128_32
+    21300066: explosion_3_40_128_33
+    21300068: explosion_3_40_128_34
+    21300070: explosion_3_40_128_35
+    21300072: explosion_3_40_128_36
+    21300074: explosion_3_40_128_37
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 8192
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: explosion_3_40_128_0
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 660
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: explosion_3_40_128_1
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 916
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: explosion_3_40_128_2
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 915
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: explosion_3_40_128_3
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 916
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: explosion_3_40_128_4
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 916
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: explosion_3_40_128_5
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 915
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: explosion_3_40_128_6
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 915
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: explosion_3_40_128_7
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 916
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: explosion_3_40_128_8
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 915
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: explosion_3_40_128_9
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 788
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: explosion_3_40_128_10
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 788
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: explosion_3_40_128_11
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 788
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: explosion_3_40_128_12
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 787
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: explosion_3_40_128_13
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 788
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: explosion_3_40_128_14
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 787
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: explosion_3_40_128_15
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 787
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: explosion_3_40_128_16
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 788
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: explosion_3_40_128_17
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 660
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: explosion_3_40_128_18
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 661
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: explosion_3_40_128_19
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 659
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: explosion_3_40_128_20
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 660
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: explosion_3_40_128_21
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 662
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: explosion_3_40_128_22
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 663
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: explosion_3_40_128_23
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 662
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: explosion_3_40_128_24
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 534
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: explosion_3_40_128_25
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 533
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: explosion_3_40_128_26
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 532
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: explosion_3_40_128_27
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 532
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: explosion_3_40_128_28
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 535
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: explosion_3_40_128_29
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 530
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: explosion_3_40_128_30
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 533
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: explosion_3_40_128_31
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 532
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: explosion_3_40_128_32
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 404
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: explosion_3_40_128_33
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 405
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: explosion_3_40_128_34
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 406
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: explosion_3_40_128_35
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 405
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: explosion_3_40_128_36
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 407
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: explosion_3_40_128_37
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 402
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

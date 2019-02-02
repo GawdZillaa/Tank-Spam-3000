@@ -1,0 +1,1094 @@
+fileFormatVersion: 2
+guid: 1b14d0609c04c824d97856fb78820eaf
+timeCreated: 1493744529
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: e1
+    21300002: e2
+    21300004: e3
+    21300006: e4
+    21300008: e5
+    21300010: e6
+    21300012: e7
+    21300014: e8
+    21300016: e9
+    21300018: e10
+    21300020: e11
+    21300022: e12
+    21300024: e13
+    21300026: e14
+    21300028: e15
+    21300030: e16
+    21300032: e17
+    21300034: e18
+    21300036: e19
+    21300038: e20
+    21300040: e21
+    21300042: tex_vfx-inf_particle_spritesheet_explosion3_21
+    21300044: e22
+    21300046: e30
+    21300048: tex_vfx-inf_particle_spritesheet_explosion3_24
+    21300050: tex_vfx-inf_particle_spritesheet_explosion3_25
+    21300052: tex_vfx-inf_particle_spritesheet_explosion3_26
+    21300054: tex_vfx-inf_particle_spritesheet_explosion3_27
+    21300056: tex_vfx-inf_particle_spritesheet_explosion3_28
+    21300058: e49
+    21300060: e26
+    21300062: tex_vfx-inf_particle_spritesheet_explosion3_31
+    21300064: e27
+    21300066: e28
+    21300068: e29
+    21300070: e23
+    21300072: e24
+    21300074: tex_vfx-inf_particle_spritesheet_explosion3_37
+    21300076: e25
+    21300078: tex_vfx-inf_particle_spritesheet_explosion3_39
+    21300080: tex_vfx-inf_particle_spritesheet_explosion3_40
+    21300082: tex_vfx-inf_particle_spritesheet_explosion3_41
+    21300084: tex_vfx-inf_particle_spritesheet_explosion3_42
+    21300086: tex_vfx-inf_particle_spritesheet_explosion3_43
+    21300088: e38
+    21300090: tex_vfx-inf_particle_spritesheet_explosion3_45
+    21300092: e35
+    21300094: e37
+    21300096: tex_vfx-inf_particle_spritesheet_explosion3_48
+    21300098: e31
+    21300100: e33
+    21300102: e34
+    21300104: tex_vfx-inf_particle_spritesheet_explosion3_52
+    21300106: tex_vfx-inf_particle_spritesheet_explosion3_53
+    21300108: e32
+    21300110: tex_vfx-inf_particle_spritesheet_explosion3_55
+    21300112: tex_vfx-inf_particle_spritesheet_explosion3_56
+    21300114: e36
+    21300116: tex_vfx-inf_particle_spritesheet_explosion3_58
+    21300118: tex_vfx-inf_particle_spritesheet_explosion3_59
+    21300120: tex_vfx-inf_particle_spritesheet_explosion3_60
+    21300122: tex_vfx-inf_particle_spritesheet_explosion3_61
+    21300124: tex_vfx-inf_particle_spritesheet_explosion3_62
+    21300126: tex_vfx-inf_particle_spritesheet_explosion3_63
+    21300128: tex_vfx-inf_particle_spritesheet_explosion3_64
+    21300130: tex_vfx-inf_particle_spritesheet_explosion3_65
+    21300132: tex_vfx-inf_particle_spritesheet_explosion3_66
+    21300134: tex_vfx-inf_particle_spritesheet_explosion3_67
+    21300136: tex_vfx-inf_particle_spritesheet_explosion3_68
+    21300138: tex_vfx-inf_particle_spritesheet_explosion3_69
+    21300140: tex_vfx-inf_particle_spritesheet_explosion3_70
+    21300142: tex_vfx-inf_particle_spritesheet_explosion3_71
+    21300144: tex_vfx-inf_particle_spritesheet_explosion3_72
+    21300146: tex_vfx-inf_particle_spritesheet_explosion3_73
+    21300148: tex_vfx-inf_particle_spritesheet_explosion3_74
+    21300150: tex_vfx-inf_particle_spritesheet_explosion3_75
+    21300152: e39
+    21300154: tex_vfx-inf_particle_spritesheet_explosion3_77
+    21300156: e40
+    21300158: e42
+    21300160: e45
+    21300162: e46
+    21300164: tex_vfx-inf_particle_spritesheet_explosion3_82
+    21300166: tex_vfx-inf_particle_spritesheet_explosion3_83
+    21300168: tex_vfx-inf_particle_spritesheet_explosion3_84
+    21300170: e43
+    21300172: tex_vfx-inf_particle_spritesheet_explosion3_86
+    21300174: e44
+    21300176: e41
+    21300178: tex_vfx-inf_particle_spritesheet_explosion3_89
+    21300180: tex_vfx-inf_particle_spritesheet_explosion3_90
+    21300182: tex_vfx-inf_particle_spritesheet_explosion3_91
+    21300184: tex_vfx-inf_particle_spritesheet_explosion3_92
+    21300186: tex_vfx-inf_particle_spritesheet_explosion3_93
+    21300188: tex_vfx-inf_particle_spritesheet_explosion3_94
+    21300190: tex_vfx-inf_particle_spritesheet_explosion3_95
+    21300192: tex_vfx-inf_particle_spritesheet_explosion3_96
+    21300194: tex_vfx-inf_particle_spritesheet_explosion3_97
+    21300196: tex_vfx-inf_particle_spritesheet_explosion3_98
+    21300198: tex_vfx-inf_particle_spritesheet_explosion3_99
+    21300200: tex_vfx-inf_particle_spritesheet_explosion3_100
+    21300202: tex_vfx-inf_particle_spritesheet_explosion3_101
+    21300204: tex_vfx-inf_particle_spritesheet_explosion3_102
+    21300206: tex_vfx-inf_particle_spritesheet_explosion3_103
+    21300208: tex_vfx-inf_particle_spritesheet_explosion3_104
+    21300210: tex_vfx-inf_particle_spritesheet_explosion3_105
+    21300212: tex_vfx-inf_particle_spritesheet_explosion3_106
+    21300214: tex_vfx-inf_particle_spritesheet_explosion3_107
+    21300216: tex_vfx-inf_particle_spritesheet_explosion3_108
+    21300218: tex_vfx-inf_particle_spritesheet_explosion3_109
+    21300220: tex_vfx-inf_particle_spritesheet_explosion3_110
+    21300222: tex_vfx-inf_particle_spritesheet_explosion3_111
+    21300224: tex_vfx-inf_particle_spritesheet_explosion3_112
+    21300226: tex_vfx-inf_particle_spritesheet_explosion3_113
+    21300228: tex_vfx-inf_particle_spritesheet_explosion3_114
+    21300230: tex_vfx-inf_particle_spritesheet_explosion3_115
+    21300232: e53
+    21300234: tex_vfx-inf_particle_spritesheet_explosion3_117
+    21300236: tex_vfx-inf_particle_spritesheet_explosion3_118
+    21300238: tex_vfx-inf_particle_spritesheet_explosion3_119
+    21300240: tex_vfx-inf_particle_spritesheet_explosion3_120
+    21300242: e51
+    21300244: tex_vfx-inf_particle_spritesheet_explosion3_122
+    21300246: e52
+    21300248: e54
+    21300250: e47
+    21300252: tex_vfx-inf_particle_spritesheet_explosion3_126
+    21300254: tex_vfx-inf_particle_spritesheet_explosion3_127
+    21300256: e48
+    21300258: e50
+    21300260: tex_vfx-inf_particle_spritesheet_explosion3_130
+    21300262: tex_vfx-inf_particle_spritesheet_explosion3_131
+    21300264: tex_vfx-inf_particle_spritesheet_explosion3_132
+    21300266: tex_vfx-inf_particle_spritesheet_explosion3_133
+    21300268: tex_vfx-inf_particle_spritesheet_explosion3_134
+    21300270: tex_vfx-inf_particle_spritesheet_explosion3_135
+    21300272: tex_vfx-inf_particle_spritesheet_explosion3_136
+    21300274: tex_vfx-inf_particle_spritesheet_explosion3_137
+    21300276: tex_vfx-inf_particle_spritesheet_explosion3_138
+    21300278: tex_vfx-inf_particle_spritesheet_explosion3_139
+    21300280: tex_vfx-inf_particle_spritesheet_explosion3_140
+    21300282: tex_vfx-inf_particle_spritesheet_explosion3_141
+    21300284: tex_vfx-inf_particle_spritesheet_explosion3_142
+    21300286: tex_vfx-inf_particle_spritesheet_explosion3_143
+    21300288: tex_vfx-inf_particle_spritesheet_explosion3_144
+    21300290: tex_vfx-inf_particle_spritesheet_explosion3_145
+    21300292: tex_vfx-inf_particle_spritesheet_explosion3_146
+    21300294: tex_vfx-inf_particle_spritesheet_explosion3_147
+    21300296: tex_vfx-inf_particle_spritesheet_explosion3_148
+    21300298: tex_vfx-inf_particle_spritesheet_explosion3_149
+    21300300: tex_vfx-inf_particle_spritesheet_explosion3_150
+    21300302: tex_vfx-inf_particle_spritesheet_explosion3_151
+    21300304: e55
+    21300306: e56
+    21300308: tex_vfx-inf_particle_spritesheet_explosion3_154
+    21300310: tex_vfx-inf_particle_spritesheet_explosion3_155
+    21300312: tex_vfx-inf_particle_spritesheet_explosion3_156
+    21300314: tex_vfx-inf_particle_spritesheet_explosion3_157
+    21300316: tex_vfx-inf_particle_spritesheet_explosion3_158
+    21300318: tex_vfx-inf_particle_spritesheet_explosion3_159
+    21300320: tex_vfx-inf_particle_spritesheet_explosion3_160
+    21300322: tex_vfx-inf_particle_spritesheet_explosion3_161
+    21300324: tex_vfx-inf_particle_spritesheet_explosion3_162
+    21300326: tex_vfx-inf_particle_spritesheet_explosion3_163
+    21300328: tex_vfx-inf_particle_spritesheet_explosion3_164
+    21300330: tex_vfx-inf_particle_spritesheet_explosion3_165
+    21300332: tex_vfx-inf_particle_spritesheet_explosion3_166
+    21300334: tex_vfx-inf_particle_spritesheet_explosion3_167
+    21300336: e57
+    21300338: tex_vfx-inf_particle_spritesheet_explosion3_169
+    21300340: tex_vfx-inf_particle_spritesheet_explosion3_170
+    21300342: tex_vfx-inf_particle_spritesheet_explosion3_171
+    21300344: tex_vfx-inf_particle_spritesheet_explosion3_172
+    21300346: tex_vfx-inf_particle_spritesheet_explosion3_173
+    21300348: tex_vfx-inf_particle_spritesheet_explosion3_174
+    21300350: e58
+    21300352: tex_vfx-inf_particle_spritesheet_explosion3_176
+    21300354: tex_vfx-inf_particle_spritesheet_explosion3_177
+    21300356: tex_vfx-inf_particle_spritesheet_explosion3_178
+    21300358: tex_vfx-inf_particle_spritesheet_explosion3_179
+    21300360: tex_vfx-inf_particle_spritesheet_explosion3_180
+    21300362: tex_vfx-inf_particle_spritesheet_explosion3_181
+    21300364: tex_vfx-inf_particle_spritesheet_explosion3_182
+    21300366: tex_vfx-inf_particle_spritesheet_explosion3_183
+    21300368: tex_vfx-inf_particle_spritesheet_explosion3_184
+    21300370: tex_vfx-inf_particle_spritesheet_explosion3_185
+    21300372: tex_vfx-inf_particle_spritesheet_explosion3_186
+    21300374: tex_vfx-inf_particle_spritesheet_explosion3_187
+    21300376: e59
+    21300378: tex_vfx-inf_particle_spritesheet_explosion3_189
+    21300380: tex_vfx-inf_particle_spritesheet_explosion3_190
+    21300382: tex_vfx-inf_particle_spritesheet_explosion3_191
+    21300384: tex_vfx-inf_particle_spritesheet_explosion3_192
+    21300386: e60
+    21300388: tex_vfx-inf_particle_spritesheet_explosion3_194
+    21300390: tex_vfx-inf_particle_spritesheet_explosion3_195
+    21300392: tex_vfx-inf_particle_spritesheet_explosion3_196
+    21300394: tex_vfx-inf_particle_spritesheet_explosion3_197
+    21300396: tex_vfx-inf_particle_spritesheet_explosion3_198
+    21300398: tex_vfx-inf_particle_spritesheet_explosion3_199
+    21300400: tex_vfx-inf_particle_spritesheet_explosion3_200
+    21300402: tex_vfx-inf_particle_spritesheet_explosion3_201
+    21300404: tex_vfx-inf_particle_spritesheet_explosion3_202
+    21300406: tex_vfx-inf_particle_spritesheet_explosion3_203
+    21300408: tex_vfx-inf_particle_spritesheet_explosion3_204
+    21300410: tex_vfx-inf_particle_spritesheet_explosion3_205
+    21300412: tex_vfx-inf_particle_spritesheet_explosion3_206
+    21300414: tex_vfx-inf_particle_spritesheet_explosion3_207
+    21300416: tex_vfx-inf_particle_spritesheet_explosion3_208
+    21300418: tex_vfx-inf_particle_spritesheet_explosion3_209
+    21300420: tex_vfx-inf_particle_spritesheet_explosion3_210
+    21300422: tex_vfx-inf_particle_spritesheet_explosion3_211
+    21300424: tex_vfx-inf_particle_spritesheet_explosion3_212
+    21300426: tex_vfx-inf_particle_spritesheet_explosion3_213
+    21300428: tex_vfx-inf_particle_spritesheet_explosion3_214
+    21300430: tex_vfx-inf_particle_spritesheet_explosion3_215
+    21300432: tex_vfx-inf_particle_spritesheet_explosion3_216
+    21300434: tex_vfx-inf_particle_spritesheet_explosion3_217
+    21300436: tex_vfx-inf_particle_spritesheet_explosion3_218
+    21300438: tex_vfx-inf_particle_spritesheet_explosion3_219
+    21300440: tex_vfx-inf_particle_spritesheet_explosion3_220
+    21300442: tex_vfx-inf_particle_spritesheet_explosion3_221
+    21300444: tex_vfx-inf_particle_spritesheet_explosion3_222
+    21300446: tex_vfx-inf_particle_spritesheet_explosion3_223
+    21300448: tex_vfx-inf_particle_spritesheet_explosion3_224
+    21300450: tex_vfx-inf_particle_spritesheet_explosion3_225
+    21300452: tex_vfx-inf_particle_spritesheet_explosion3_226
+    21300454: tex_vfx-inf_particle_spritesheet_explosion3_227
+    21300456: tex_vfx-inf_particle_spritesheet_explosion3_228
+    21300458: tex_vfx-inf_particle_spritesheet_explosion3_229
+    21300460: tex_vfx-inf_particle_spritesheet_explosion3_230
+    21300462: tex_vfx-inf_particle_spritesheet_explosion3_231
+    21300464: tex_vfx-inf_particle_spritesheet_explosion3_232
+    21300466: tex_vfx-inf_particle_spritesheet_explosion3_233
+    21300468: tex_vfx-inf_particle_spritesheet_explosion3_234
+    21300470: tex_vfx-inf_particle_spritesheet_explosion3_235
+    21300472: tex_vfx-inf_particle_spritesheet_explosion3_236
+    21300474: tex_vfx-inf_particle_spritesheet_explosion3_237
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 1
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 8192
+  textureSettings:
+    filterMode: 1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 300
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 8192
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: e1
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 3649
+        width: 400
+        height: 391
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: e2
+      rect:
+        serializedVersion: 2
+        x: 1589
+        y: 3643
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: e3
+      rect:
+        serializedVersion: 2
+        x: 2102
+        y: 3640
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: e4
+      rect:
+        serializedVersion: 2
+        x: 2616
+        y: 3641
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: e5
+      rect:
+        serializedVersion: 2
+        x: 3128
+        y: 3641
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: e6
+      rect:
+        serializedVersion: 2
+        x: 3683
+        y: 3637
+        width: 315
+        height: 400
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: e7
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 3131
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: e8
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 3132
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: e9
+      rect:
+        serializedVersion: 2
+        x: 1077
+        y: 3127
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: e10
+      rect:
+        serializedVersion: 2
+        x: 1591
+        y: 3127
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: e11
+      rect:
+        serializedVersion: 2
+        x: 2104
+        y: 3133
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: e12
+      rect:
+        serializedVersion: 2
+        x: 2618
+        y: 3129
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: e13
+      rect:
+        serializedVersion: 2
+        x: 3133
+        y: 3128
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: e14
+      rect:
+        serializedVersion: 2
+        x: 3660
+        y: 3131
+        width: 357
+        height: 400
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: e15
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 2609
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: e16
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 2619
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: e17
+      rect:
+        serializedVersion: 2
+        x: 1074
+        y: 2614
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: e18
+      rect:
+        serializedVersion: 2
+        x: 1589
+        y: 2618
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: e19
+      rect:
+        serializedVersion: 2
+        x: 2101
+        y: 2613
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: e20
+      rect:
+        serializedVersion: 2
+        x: 2616
+        y: 2620
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: e21
+      rect:
+        serializedVersion: 2
+        x: 3127
+        y: 2621
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: e22
+      rect:
+        serializedVersion: 2
+        x: 3658
+        y: 2611
+        width: 363
+        height: 400
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: e30
+      rect:
+        serializedVersion: 2
+        x: 3634
+        y: 2101
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: e26
+      rect:
+        serializedVersion: 2
+        x: 1592
+        y: 2105
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: e27
+      rect:
+        serializedVersion: 2
+        x: 2108
+        y: 2117
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: e28
+      rect:
+        serializedVersion: 2
+        x: 2614
+        y: 2104
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: e29
+      rect:
+        serializedVersion: 2
+        x: 3128
+        y: 2101
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: e23
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 2101
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: e24
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 2100
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: e25
+      rect:
+        serializedVersion: 2
+        x: 1075
+        y: 2098
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: e35
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 1592
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: e37
+      rect:
+        serializedVersion: 2
+        x: 3134
+        y: 1591
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: e31
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 1600
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: e33
+      rect:
+        serializedVersion: 2
+        x: 1069
+        y: 1596
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: e34
+      rect:
+        serializedVersion: 2
+        x: 1584
+        y: 1603
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: e32
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 1596
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: e36
+      rect:
+        serializedVersion: 2
+        x: 2617
+        y: 1604
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: e39
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1088
+        width: 448
+        height: 418
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: e40
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 1084
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: e42
+      rect:
+        serializedVersion: 2
+        x: 1595
+        y: 1080
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: e45
+      rect:
+        serializedVersion: 2
+        x: 3123
+        y: 1074
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: e46
+      rect:
+        serializedVersion: 2
+        x: 3638
+        y: 1072
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: e43
+      rect:
+        serializedVersion: 2
+        x: 2106
+        y: 1076
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: e44
+      rect:
+        serializedVersion: 2
+        x: 2607
+        y: 1077
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: e41
+      rect:
+        serializedVersion: 2
+        x: 1093
+        y: 1081
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: e53
+      rect:
+        serializedVersion: 2
+        x: 3100
+        y: 538
+        width: 430
+        height: 506
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: e51
+      rect:
+        serializedVersion: 2
+        x: 2094
+        y: 552
+        width: 400
+        height: 445
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: e52
+      rect:
+        serializedVersion: 2
+        x: 2599
+        y: 580
+        width: 414
+        height: 427
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: e54
+      rect:
+        serializedVersion: 2
+        x: 3604
+        y: 534
+        width: 426
+        height: 482
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: e47
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 527
+        width: 400
+        height: 470
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: e48
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 529
+        width: 400
+        height: 470
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: e50
+      rect:
+        serializedVersion: 2
+        x: 1595
+        y: 528
+        width: 400
+        height: 470
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: e55
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 84
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: e56
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 72
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: e57
+      rect:
+        serializedVersion: 2
+        x: 1070
+        y: 58
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: e58
+      rect:
+        serializedVersion: 2
+        x: 1582
+        y: 61
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: e59
+      rect:
+        serializedVersion: 2
+        x: 2091
+        y: 45
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: e60
+      rect:
+        serializedVersion: 2
+        x: 2588
+        y: 49
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: e49
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 537
+        width: 400
+        height: 470
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: e38
+      rect:
+        serializedVersion: 2
+        x: 3632
+        y: 1589
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

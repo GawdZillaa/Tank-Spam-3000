@@ -1,0 +1,14 @@
+**********************************************
+				3D Example
+				
+Copyright © 2016 Javier Falcon
+https://www.assetstore.unity3d.com/#!/content/48928
+Youtube tutorials: https://www.youtube.com/channel/UCS1oE45YUBprnw4Ny-8dCjA
+
+		falcon.systems0@gmail.com
+
+**********************************************
+
+This example demonstrates how easy it is to remove multiselection if only single selection is required.
+The only difference from the other scene is the "drag handler" was removed from the scene.
+Click any game object to select it.

@@ -1,0 +1,13 @@
+**********************************************
+				2D Example
+				
+Copyright © 2016 Javier Falcon
+https://www.assetstore.unity3d.com/#!/content/48928
+Youtube tutorials: https://www.youtube.com/channel/UCS1oE45YUBprnw4Ny-8dCjA
+
+		falcon.systems0@gmail.com
+
+**********************************************
+
+Drag your pointer over the screen to select and deselect game objects.
+Click any game object to select it.
