@@ -4,4 +4,4 @@
 <br>
 <br>
 
-<h6> Made with Unity / C# </h6>
+<h6> Unity / C# / PHP / MySql DB </h6>
